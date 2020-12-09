@@ -9,7 +9,7 @@ PyTorch is a Python package that provides two high-level features:
 * Tensor computation \(like NumPy\) with strong GPU acceleration
 * Deep neural networks built on a tape-based autograd system
 
-You can reuse your favorite Python packages such as NumPy, SciPy, and Cython to extend PyTorch when needed. More information at [**https://github.com/kubeflow/pytorch-operator**](https://github.com/kubeflow/pytorch-operator) _\*\*_or the PyTorch site [https://pytorch.org/](https://pytorch.org/)
+You can reuse your favorite Python packages such as NumPy, SciPy, and Cython to extend PyTorch when needed. More information at [**https://github.com/kubeflow/pytorch-operator**](https://github.com/kubeflow/pytorch-operator) \_\*\*\_or the PyTorch site [https://pytorch.org/](https://pytorch.org/)
 
 ## Quick Start
 

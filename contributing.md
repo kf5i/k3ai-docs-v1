@@ -343,5 +343,3 @@ Bad examples of OWNERS usage:‌
 * there are more `reviewers` than `approvers`
 * the `approvers` are not i
 
-
-
