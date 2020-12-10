@@ -5,7 +5,7 @@
 Start by installing K3Ai from the **V1** channel with this:
 
 ```text
-curl -sfL https://get.k3ai.in | bash -
+curl -sfL https://get-core.k3ai.in | bash -
 ```
 
 ### **Note: sometimes things take longer than expected resulting in the error below:**
